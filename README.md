@@ -31,13 +31,6 @@ I'm an independent developer and cybersecurity enthusiast focused on **AI Agent 
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 src="https://github-readme-stats.vercel.app/api?username=Chikysa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Chikysa's GitHub stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chikysa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-  </a>
+  <i>"Talk is cheap. Show me the code."</i>
 </div>
